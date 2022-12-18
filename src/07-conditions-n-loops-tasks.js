@@ -313,6 +313,14 @@ function getDigitalRoot(num) {
  *   '{[(<{[]}>)]}' = true
  */
 function isBracketsBalanced(/* str */) {
+/*  const open = ['[', '{', '(', '<'];
+  const close = [']', '}', ')', '>'];
+  let mas = [];
+  for(let i = 0; i < str.length; i += 1){
+    let n = open.indexOf(str[i]);
+
+  }
+*/
   throw new Error('Not implemented');
 }
 
